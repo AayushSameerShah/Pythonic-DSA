@@ -1,2 +1,4 @@
-# DataStructures-Algorithms-Pythonic
-[Underdevelopment] A great resource for me and you (who is reading this precious text) for the Data Structures and Algorithms in Python! Not just to view, but to LEARN!
+# DSA in Python
+
+- The titles, structure will change and will be more readable once it becomes **complete**. 
+- Currently I am starting to build this one. So, please be here, track my progress and chill 🍻
